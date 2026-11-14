@@ -1,0 +1,12 @@
+# версии, на которых решение проверено (Mac M3 Pro и Kaggle T4)
+torch==2.15.0
+transformers==5.22.2
+huggingface_hub==2.4.0
+safetensors==0.8.0
+ultralytics==8.4.211
+numpy==2.5.4
+pandas==3.1.1
+scikit-learn==1.9.1
+scipy==1.18.1
+pillow==13.0.0
+opencv-python==5.0.0
